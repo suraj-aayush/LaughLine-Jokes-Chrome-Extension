@@ -1,0 +1,14 @@
+{
+    "name":"LaughLine Jokes by Aayush",
+    "description":"Get fresh joke everytime",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"myicon.png"
+    },
+    "icons":{
+        "128":"myicon.png"
+    }, 
+    "permission":["activeTab"]
+}
